@@ -25,6 +25,21 @@ The final step in making sure that your changes make it into the project is open
 <img src="pullrequest-send.png" width="50%"/>
 
 ###### Source: [GitHub Docs: Creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-  
+
+Now, let's say that your need to make some changes to your code you submit the PR. As mentioned in a prior part, all you'll have to make the changes locally and push to your branch, and the updates will automatically be reflected in PR. This is how you make changes brought up in **Code Reviews**. If you want to learn more about code reviews, see the [GitHub Docs: About pull request reviews](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
+
+If you don't need to make any changes, the reviewer will approve the PR, and the changes will either be automatically merged in, the reviewer can do it, or you can do it yourself!
+
+**Note:** If your branch has gotten out of sync with the master branch, you may get a **merge conflict**. To avoid this, make sure your personal branch up to date with master by running:
+```
+git checkout <your_branch>
+git fetch origin
+git pull origin master
+```
+To learn more about merge conflicts, check out the [GitHub Docs: About merge conflicts](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+
+## Challenge 5:
+
+Take the changes you pushed to GitHub in the last part and open up a pull request! If everything checks out, your work in Challenge 3 will be merged into the master branch!
 
 [Next: Clean up your local repository](../part7-clean_up)
