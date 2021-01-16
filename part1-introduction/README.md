@@ -1,1 +1,1 @@
-## Introduction to Git and Github
+## Learn to contribute to open-source projects with YuQC!
