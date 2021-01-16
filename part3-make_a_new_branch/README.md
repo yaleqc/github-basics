@@ -1,5 +1,7 @@
 ## Making a new branch to start editing code
 
+### Why do we need branches? 
+
 The next step you need to take before actually contributing is creating a new branch for your change. Branches allow you to create a local copy of the repository at its current state, which you can later merge into the `master` branch. But why would we want to do this?
 
 ##### Stability
