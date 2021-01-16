@@ -1,6 +1,6 @@
 ## Making a new branch to start editing code
 
-The next step you need to take before actually contributing is creating a new branch for your change. Understanding how to use branches is required to contribute to the [Quantum Programming API](https://github.com/yaleqc/github-basics).
+The next step you need to take before actually contributing is creating a new branch for your change. Understanding how to use branches is required to contribute to the [Quantum Programming API](https://github.com/yaleqc/quantum-programming-api).
 
 ### Why do we need branches? 
 
