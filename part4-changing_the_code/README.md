@@ -37,3 +37,5 @@ This is a very helpful command in showing you which files are and aren't staged.
 3. Add a line containing your name to the comment in `printer.py`
 4. Run `python run.py` to see your name added to the chain! Change your own file as much as you'd like.
 5. Stage the files and bundle them in a commit.
+
+[Next: Make changes to the code locally](../part5-pushing_changes_to_github)
