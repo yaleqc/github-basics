@@ -38,4 +38,8 @@ where `<branch_name>` is the name of the desired branch.
 
 When starting a fresh feature, first [make sure your master branch is up to date](https://github.com/yaleqc/github-basics), then create your new branch! To learn how to actually change the code and add the changes to your branch, see the next section.
 
+## Challenge 2:
+
+Create a branch with your last name titled `lastname-first-branch` and go into it. Use `git branch` to check. 
+
 [Next: Make changes to the code locally](../part4-changing_the_code)

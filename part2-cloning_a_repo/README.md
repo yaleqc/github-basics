@@ -20,4 +20,8 @@ At the top of every repository, there is a green button (depicted below) that ex
 
 For the purposes of this tutorial, we will only worry about cloning using HTTPS. All you have to do is copy the given link and paste it in!
 
+## Challenge 1:
+
+Clone this repo!
+
 [Next: Creating a new branch for your local changes](../part3-make_a_new_branch)

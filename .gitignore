@@ -1,0 +1,3 @@
+# ignore enviornments and caches
+env/
+__pycache__/
