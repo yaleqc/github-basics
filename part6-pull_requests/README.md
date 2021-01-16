@@ -30,7 +30,7 @@ Now, let's say that your need to make some changes to your code you submit the P
 
 If you don't need to make any changes, the reviewer will approve the PR, and the changes will either be automatically merged in, the reviewer can do it, or you can do it yourself!
 
-**Note:** If your branch has gotten out of sync with the master branch, you may get a **merge conflict**. To avoid this, make sure your personal branch up to date with master by running:
+**Note:** If your branch has gotten out of sync with the master branch, you may get a **merge conflict**. To avoid this, make sure your personal branch up to date with master by runing:
 ```
 git checkout <your_branch>
 git fetch origin
@@ -41,4 +41,4 @@ To learn more about merge conflicts, check out the [GitHub Docs: About merge con
 
 Take the changes you pushed to GitHub in the last part and open up a pull request! If everything checks out, your work in Challenge 3 will be merged into the master branch!
 
-[Next: Clean up your local repository](../part7-clean_up)
+[Next: Keeping up with the repository](../part7-keeping_up_with_repo)

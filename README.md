@@ -7,4 +7,4 @@
  4. [Make changes to the code locally](part4-changing_the_code/)
  5. [Push your local changes to Github](part5-pushing_changes_to_github/)
  6. [Open a pull request to merge your code with the master branch](part6-pull_requests/)
- 7. [Clean up your local repository](part7-clean_up/)
+ 7. [Keeping up with the repository](part7-keeping_up_with_repo/)
