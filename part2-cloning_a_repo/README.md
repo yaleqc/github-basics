@@ -13,9 +13,11 @@ But where do we get this `<repo_link>`?
 
 At the top of every repository, there is a green button (depicted below) that expands to provide you the link to the repo! 
 
-![Code Button](code-button.png)
-![Code Link](https-url-clone.png)
+![](code-button.png)
+![](https-url-clone.png)
 
 ###### Source: [GitHub Docs: Cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 For the purposes of this tutorial, we will only worry about cloning using HTTPS. All you have to do is copy the given link and paste it in!
+
+[Next: Creating a new branch for your local changes](../part3-make_a_new_branch)
