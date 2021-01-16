@@ -17,20 +17,20 @@ Branches are also needed for creating [Pull Requests](../part6-pull_requests), w
 
 ### Now that we know why branches are important, how do we create and manage them? 
 
-##### To checkout a new branch, enter:
+#### To checkout a new branch, enter:
 ```
 git checkout -b <branch_name>
 ```
 where `<branch_name>` is up do you.
 
-##### To view all local branches, enter:
+#### To view all local branches, enter:
 ```
 git branch
 ```
 
 in your shell. The branch you are currently on will be highlighted.
 
-##### To switch to an existing branch, enter:
+#### To switch to an existing branch, enter:
 ```
 git checkout <branch_name>
 ```

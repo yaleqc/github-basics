@@ -8,17 +8,17 @@ Once you're ready to actually push these changes, they need to be staged and the
 
 Commits are how Git tracks different changes to the codebase. Normally, we'd like to make commits as small as possible so that we have a record of how the repository is changing. Better to have a lot of small commits rather than a few big commits. Also, if something goes wrong in the code we can always revert the repo to a prior commit. 
 
-##### To stage a file for commit, enter: 
+#### To stage a file for commit, enter: 
 ```
 git add <file_path>
 ```
-to stage all altered files, enter:
+#### to stage all altered files, enter:
 ```
 git add .
 ```
 **Note:** It is much more common to just stage every altered file rather than pick and choose. However, if you only want to bundle certain files in a commit then feel free to do so.
 
-##### To bundle a commit, enter:
+#### To bundle a commit, enter:
 ```
 git commit -m <commit_message>
 ```
