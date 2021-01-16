@@ -13,8 +13,8 @@ But where do we get this `<repo_link>`?
 
 At the top of every repository, there is a green button (depicted below) that expands to provide you the link to the repo! 
 
-![Code Button](code-button.jpg)
-![Code Link](https-url-clone.jpg)
+![Code Button](code-button.png)
+![Code Link](https-url-clone.png)
 
 ###### Source: [GitHub Docs: Cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
