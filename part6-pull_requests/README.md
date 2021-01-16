@@ -10,19 +10,19 @@ The final step in making sure that your changes make it into the project is open
 #### To open up a pull request:
 
 1. Open up the branch menu on the repository's home page and select your branch.
-![](branch-dropdown.png)
+<img src="branch-dropdown.png" width="50%"/>
 
 2. From the bar on top of the branch contents, click the Pull request button.
-![](pull-request-start-review-button.png)
+<img src="pull-request-start-review-button.png" width="50%"/>
 
 3. Looking at the dropdown menu, set the *base* branch to `master` and the *compare* branch to the branch that you made your changes in.
-![](choose-base-and-compare-branches.png)
+<img src="choose-base-and-compare-branches.png" width="50%"/>
 
 4. Add a title and description for your PR.
-![](pullrequest-description.png)
+<img src="pullrequest-description.png" width="50%"/>
 
 5. Select **Create Pull Request** (or draft if needed) and you're good to go!
-![](pullrequest-send.png)
+<img src="pullrequest-send.png" width="50%"/>
 
 ###### Source: [GitHub Docs: Creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
   
