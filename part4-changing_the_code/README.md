@@ -24,7 +24,7 @@ git commit -m <commit_message>
 ```
 Where `<commit_message>` is a message describing what your commit does. To use the Pong example from before, a good description would be something like `"allows user to change the background color"`.
 
-#### To check the status of the files in your repository, enter:
+#### To check the status of your files, enter:
 ```
 git status
 ```
@@ -34,6 +34,6 @@ This is a very helpful command in showing you which files are and aren't staged.
 
 1. Create a file in the `people` subdirectory with your first and last name titled `firstname_lastname.txt`. 
 2. Put a random sentence inside. 
-3. Add a line containing your name under the last name on the comment in `printer.py`
+3. Add a line containing your name to the comment in `printer.py`
 4. Run `python run.py` to see your name added to the chain! Change your own file as much as you'd like.
 5. Stage the files and bundle them in a commit.
