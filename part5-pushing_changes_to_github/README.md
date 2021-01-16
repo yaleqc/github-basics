@@ -18,4 +18,8 @@ If everything worked successfully, you should be able to see your branch under t
 
 ![](branches-link.png)
 
+## Challenge 4:
+
+Push the changes you staged in the last part to GitHub!
+
 [Next: Open a pull request to merge your code with the master branch](../part6-pull_requests)
