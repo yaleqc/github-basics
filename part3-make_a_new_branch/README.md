@@ -11,7 +11,7 @@ Using branches also allows for implementations features to be organized well and
 ##### Code Reviews
 Branches are also needed for creating [Pull Requests](../part6-pull_requests), which we'll discuss in depth later. The importance of branches in PRs have to do with making changes. When you submit a PR (pull request) for you branch to be merged to the `master`, normally the owner(s) of the repository will check the code to make sure that the code is written well and does what it's supposed to. If you submit your branch in a PR and changes are requested, all you need to do is push the changes to your branch **and the changes will automatically show up in the PR**. Again, we'll talk more about it later, but this is an important part of branches. 
 
-Now that we know why branches are important, how do we create and manage them? 
+### Now that we know why branches are important, how do we create and manage them? 
 
 ##### To checkout a new branch, enter:
 ```
