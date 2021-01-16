@@ -1,8 +1,10 @@
 ## Making a new branch to start editing code
 
+The next step you need to take before actually contributing is creating a new branch for your change. Understanding how to use branches is required to contribute to the [Quantum Programming API](https://github.com/yaleqc/github-basics).
+
 ### Why do we need branches? 
 
-The next step you need to take before actually contributing is creating a new branch for your change. Branches allow you to create a local copy of the repository at its current state, which you can later merge into the `master` branch. But why would we want to do this?
+Branches allow you to create a local copy of the repository at its current state, which you can later merge into the `master` branch. But why would we want to do this?
 
 ##### Stability
 Put simply, using separate branches as workspaces allows for the `master` branch to be the point of reference for all contributors in the project. The `master` branch should be a stable and functioning version of the project at all times. Creating separate branches for separate features allows you to make changes, test them, and push them to Github without ruining the stable version of the product.
