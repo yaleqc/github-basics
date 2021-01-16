@@ -24,6 +24,12 @@ git commit -m <commit_message>
 ```
 Where `<commit_message>` is a message describing what your commit does. To use the Pong example from before, a good description would be something like `"allows user to change the background color"`.
 
+#### To check the status of the files in your repository, enter:
+```
+git status
+```
+This is a very helpful command in showing you which files are and aren't staged. It also provides helpful commands to undo staging and commits if you ever need to do so.
+
 ## Challenge 3:
 
 1. Create a file in the `people` subdirectory with your first and last name titled `firstname_lastname.txt`. 
