@@ -36,4 +36,4 @@ git checkout <branch_name>
 ```
 where `<branch_name>` is the name of the desired branch.
 
-When starting a fresh feature, first [make sure your master branch is up to date](../), then create your new branch and get to work!
+When starting a fresh feature, first [make sure your master branch is up to date](..), then create your new branch and get to work!
