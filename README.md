@@ -1,1 +1,1 @@
-### Learn to use Git and Github!
+# Learn to contribute to YuQC projects!
