@@ -4,9 +4,25 @@ Now that you know how to create a branch to make your changes, time to actually 
 
 Doing so is pretty self-explanatory, once you're in your branch, edit files however you see fit. You can add and delete files, reorganize directories, and change code and Git will track it all. 
 
-Once you're ready to actually push these changes, they need to be staged and then bundled in a commit. Think of staging as telling Git "Hey, these are the files I'd like to group together" and then making a commit is actually doing the bundling.
+Once you're ready to actually push these changes, they need to be staged and then bundled in a commit. Think of staging as telling Git "Hey, these are the files I'd like to group together." and then making a commit is actually doing the bundling.
 
 Commits are how Git tracks different changes to the codebase. Normally, we'd like to make commits as small as possible so that we have a record of how the repository is changing. Better to have a lot of small commits rather than a few big commits. Also, if something goes wrong in the code we can always revert the repo to a prior commit. 
+
+##### To stage a file for commit, enter: 
+```
+git add <file_path>
+```
+to stage all altered files, enter:
+```
+git add .
+```
+**Note:** It is much more common to just stage every altered file rather than pick and choose. However, if you only want to bundle certain files in a commit then feel free to do so.
+
+##### To bundle a commit, enter:
+```
+git commit -m <commit_message>
+```
+Where `<commit_message>` is a message describing what your commit does. To use the Pong example from before, a good description would be something like `"allows user to change the background color"`.
 
 ## Challenge 3:
 
