@@ -11,9 +11,9 @@ If you've completed all the challenges one sitting, there's a pretty good chance
   3. Alice finishes her code on Tuesday and submits a pull request to merge her dev branch to master. Master has not changed, so the branch is merged seamlessly.
   4. Bob finishes his code on Wednesday and tries to merge his dev branch to master. Master from Bob's perspective is now different than master from Alice's perspective, and so a conflict occurs, since Git isn't sure which master is the correct one.
 
-So how do we resolve this conflict? The easiest way to resolve merge conflicts is by preventing them in the first place by keeping both your local master and dev branch up to date with the master branch on GitHub. An easy way to do this is, before you ever push any changes to your dev branch, pull the changes from the online master branch to your local master and dev branch.
+So how do we resolve this conflict? The easiest way to resolve merge conflicts is by preventing them. This means keeping both your local master and dev branch up to date with the master branch on GitHub. An easy way to do this is, before you ever push any changes to your dev branch, pull the changes from the online master branch to your local master and dev branch.
 
-#### To pull changes to a branch:
+#### To pull changes to a branch, enter:
 ```
 git checkout <branch_name>
 git fetch origin
