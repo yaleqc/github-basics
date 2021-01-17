@@ -11,4 +11,4 @@ Throughout this tutorial, we'll go over the basics of Git and GitHub and show yo
  6. [Open a pull request to merge your code with the master branch](part6-pull_requests/)
  7. [Keeping up with the repository](part7-keeping_up_with_repo/)
 
-This tutorial was written by @seunomonije, 2020-2021 YuQC Director of Open Source. If there are any issues, don't hesistate to open a GitHub issue or submit a PR fix!
+This tutorial was written by [@seunomonije](https://github.com/seunomonije), 2020-2021 YuQC Director of Open Source. If there are any issues, don't hesistate to open a GitHub issue or submit a PR fix! And if you're a member of YuQC and have any questions, don't hesitate to reach out!
