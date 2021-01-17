@@ -36,6 +36,8 @@ git checkout <your_branch>
 git fetch origin
 git pull origin master
 ```
+This is explained further in the next part.
+
 To learn more about merge conflicts, check out the [GitHub Docs: About merge conflicts](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts).
 ## Challenge 5:
 
