@@ -38,4 +38,4 @@ This is a very helpful command in showing you which files are and aren't staged.
 4. Run `python run.py` to see your name added to the chain! Change your own file as much as you'd like.
 5. Stage the files and bundle them in a commit.
 
-[Next: Push your local changes to Github](../part5-pushing_changes_to_github)
+[Next: Push your local changes to GitHub](../part5-pushing_changes_to_github)

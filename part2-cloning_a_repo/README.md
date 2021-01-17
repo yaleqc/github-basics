@@ -1,8 +1,8 @@
 ## Cloning a repository locally
 
-The first step in contributing to a project is cloning the Github repository. Saying that we are "cloning" is just another way of saying that we are copying that repository from the internet onto our local machines. 
+The first step in contributing to a project is cloning the GitHub repository. Saying that we are "cloning" is just another way of saying that we are copying that repository from the internet onto our local machines. 
 
-One important distinction between just copying and cloning, however, is that a remote is automatically set up between your local copy and the copy of the repository on Github. This remote tracks the changes that you make locally and allows you to see where your copy the and Github copy differ, check if your local copy needs to be updated, and push any local changes you make to Github. You can think of a remote as a link between your local copy of the repo and the Github copy. 
+One important distinction between just copying and cloning, however, is that a remote is automatically set up between your local copy and the copy of the repository on GitHub. This remote tracks the changes that you make locally and allows you to see where your copy the and GitHub copy differ, check if your local copy needs to be updated, and push any local changes you make to GitHub. You can think of a remote as a link between your local copy of the repo and the GitHub copy. 
 
 Cloning a repository is simple. Navigate to the desired directory in your computer and enter:
 ```

@@ -7,7 +7,7 @@ The next step you need to take before actually contributing is creating a new br
 Branches allow you to create a local copy of the repository at its current state, which you can later merge into the `master` branch. But why would we want to do this?
 
 ##### Stability
-Put simply, using separate branches as workspaces allows for the `master` branch to be the point of reference for all contributors in the project. The `master` branch should be a stable and functioning version of the project at all times. Creating separate branches for separate features allows you to make changes, test them, and push them to Github without ruining the stable version of the product.
+Put simply, using separate branches as workspaces allows for the `master` branch to be the point of reference for all contributors in the project. The `master` branch should be a stable and functioning version of the project at all times. Creating separate branches for separate features allows you to make changes, test them, and push them to GitHub without ruining the stable version of the product.
 
 ##### Organization
 Using branches also allows for implementations features to be organized well and later merged to the `master` branch piece by piece rather than in one large chunk of code. For example, if you have working code for a basic game of Pong and want to add more features, contributors might create a branch to implement different ball colors, one for different background colors, and one for different fonts. If the contributor working on the background colors gets done first, they can merge those changes into the `master` branch without having to wait for the people working on the other features to finish. This becomes especially important as the number of project contributors grows. 

@@ -1,9 +1,9 @@
-## Pushing your local changes to Github
-Now that you've created your own branch and made some changes, its time to push them to Github.
+## Pushing your local changes to GitHub
+Now that you've created your own branch and made some changes, its time to push them to GitHub.
 
 The great thing about Git is all the work you did before makes it simple to push your changes to the internet. 
 
-#### To push your change to Github, enter:
+#### To push your change to GitHub, enter:
 ```
 git push origin <branch_name>
 ```
