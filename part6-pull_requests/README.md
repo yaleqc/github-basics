@@ -41,6 +41,6 @@ This is explained further in the next part.
 To learn more about merge conflicts, check out the [GitHub Docs: About merge conflicts](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts).
 ## Challenge 5:
 
-Take the changes you pushed to GitHub in the last part and open up a pull request! **Hint: if you followed the tutorial, you cloned a forked repository. [This might be helpful](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)** If everything checks out, your work in Challenge 3 will be merged into the master branch!
+Take the changes you pushed to GitHub in the last part and open up a pull request! **Hint: if you followed the tutorial, you cloned a forked repository. [This might be helpful.](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)** If everything checks out, your work in Challenge 3 will be merged into the master branch!
 
 [Next: Keeping up with the repository](../part7-keeping_up_with_repo)
