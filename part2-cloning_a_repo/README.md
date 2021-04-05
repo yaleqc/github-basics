@@ -22,6 +22,6 @@ For the purposes of this tutorial, we will only worry about cloning using HTTPS.
 
 ## Challenge 1:
 
-Clone this repo!
+Clone (your fork of) this repo! (But first you'll need to fork it so you can actually push your changes.) Check out [this guide](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) for information on how to fork a repo.
 
 [Next: Creating a new branch for your local changes](../part3-make_a_new_branch)
